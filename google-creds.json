@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "la-lega-462118",
+  "private_key_id": "86e76173e581851ade9aa420e3b1fb615c14fab1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/5dWYInwFS2Jl\nu4vKyZaER5zOcD+sCjfY9qK3xP6lsRF5vYepGy6KjrzsTGoe/b/g6SlpJOjRFAA8\n12YrOICuIssE8V2EXD6o2XlvA91/yWL2HgHaQtFZw7ebfEEuFy7rB2SBmvnGvQWu\ntMWmqq5qMAxGTD2vcyff8h1NhjGMz/8GLuBQ03C67FEDP7TdV2rH0i5rK5dXHqCP\nXgdYMoHLKVggMJGEYeOFQ9nlyhAQCC+tZfASrWGXP4VDb6Wl29rJj+gawrkw5EB2\nWDc60zhHew5uUDre5uQhMf0v0GR1cHUa/aVGgy+5SAD7lK8eK2/CasmzH3yqdf7o\nEsoDnpAHAgMBAAECggEAGzdOw1xvXYAzDOhRVmn1KdP5m9e/WA2SR823BzxDvMkv\nstCcIHJFTWEaz01efFW9yc7Ce5yV/oKJLsKCmtz7zHa3zNQp+2nqeHUblrtOxgm7\nD4VIUFB2CPahSvE6Uf33aV2ri1bTrQma+DZq6o0+M7uWdL6UaGv7JZ+yOJAF5V6i\n6B8UyZonP/7hx4WEQE5sOJZPXEOghIPVGMhuIgXh4SH+6+zYIHeSshmbI13oosjy\nwAkjb7+6424nz0fxVR2CTM1Ms1q5J2lvbuZiGBrw5T4BYvN83mDCsT59ytyDsM1J\nK9y+g1TE/DaNCrchq05qPFI4XOqoloFYcXBlniqj+QKBgQDqgyr51dFs/uCAdDKK\n415hNr+42qHrd36WE72JIaWpfU7RyT88q4hJZiCPUBCbiGOTYfTwZZlYTyakN4ss\ng7fA1qQYWdb6iKG4u7owc9DYbeR0r2ZXmjVVEfPMcrLWR0b1vAE4kQSIew1ozgrT\ncSLvMT15eqAh1Is7qgFfat/BXwKBgQDRexQuJRGW1CMohaIN2NSGXVjXE146xt5u\nGrpqyIqr+qlKpz5pUOyALBCwcPH1OXwzWakr+eg9iwhcZoSFsz8te0VDjhgISHFY\n1ETKOxW32x/LN6FADps6t1BlDyVfELcvOB3+KWhMdus72o7t1kxbFuZtsRATOdw7\nIooYch1qWQKBgHag45x+DPKV+/r+zJJ1cci7aUCZWE9Eo0RHuBkmbCbQvI5ivxpx\nqv92KgJU/hGvbK+hXcY9ntSNNX7cmgpqlwl1iozG5XjWpPhN/mGENKFG9coQ8DRg\nTZo6+pjxbIX4iGzGLdfvg9uGY8IgeFl9Ya6dufs5jMeQPN5xoUAjUA0BAoGAT32Z\n8czFOOv1D3puPTzroLUpciv6VOmEHFnuJXlGDe7HcPm32DUKGbUe/CVP25Ndywqa\nBIMHmtr4aD/KyAV10ud1KCZyfionQOMD243CNwtirDXG7czdINHRIxg1QTbRnIx5\n7Sl/V4zExOix1hS80tAEztki1XjeVl5L8uzStrkCgYB/lx6HKhr4IZl3Xmj6EqEQ\n8Hg2Via3Ulhe4Qt+L6WF1tVJ3vsWBbgauZHRCp3qm7tIxfGDt20UCE5ddt71GvMS\nZep05VZxCVjLkpJ86f/+G1a5gznyuPKwFt2goP9GJfzHkYYdANaOYxJhBKsHUd/k\nZTgfg74EqRkMJjoCmNWnQg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "la-lega-ai@la-lega-462118.iam.gserviceaccount.com",
+  "client_id": "107527747316186673522",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/la-lega-ai%40la-lega-462118.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
